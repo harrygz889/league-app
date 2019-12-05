@@ -4,7 +4,6 @@
   "description": "A league app",
   "main": "index.js",
   "dependencies": {
-    "axios": "^0.15.3",
     "express": "^4.17.1"
   },
   "devDependencies": {},
