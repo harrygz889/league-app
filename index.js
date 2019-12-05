@@ -1,5 +1,4 @@
 let express = require('express');
-let socketio = require('socket.io');
 let http = require('http');
 
 let app = express();
